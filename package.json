@@ -1,0 +1,19 @@
+{
+  "name": "miocrack",
+  "version": "1.0.0",
+  "description": "mIo nIghTly nO bACKdOOr!1 ",
+  "main": "miocrack.js",
+  "scripts": {
+    "test": "node miocrack.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/primewk/mio-nightly-for-free.git"
+  },
+  "author": "cheatplus",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/primewk/mio-nightly-for-free/issues/",
+  },
+  "homepage": "https://github.com/primewk/mio-nightly-for-free#readme"
+}
